@@ -1,6 +1,1 @@
 # SYNCVSC
-
-hola 
-
-
-adios
